@@ -6,10 +6,9 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-I became passionate about cybersecurity as a result of my information technology journey, and I am now excited to move into this industry. Specifically, I want to work as a Tier 1 Analyst in a Security Operations Center (SOC).
+My interest in cybersecurity grew from my passion for information technology. I'm currently building my skills through hands on projects and self learning, and I'm excited to continue learning and start a career in cybersecurity.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,6 @@ I became passionate about cybersecurity as a result of my information technology
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>

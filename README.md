@@ -12,12 +12,12 @@ My interest in cybersecurity grew from my passion for information technology. I'
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/onellio/Password-Strength-Checker">Password Strength Checker</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Python Security Scripting and Automation         | <a href="https://github.com/onellio/Password-Strength-Checker">Password Strength Checker</a>|
+|Password Security and Authentication Analysis | <a href="https://github.com/onellio/Password-Strength-Checker">Password Strength Checker</a>|
+| File Integrity Monitoring and Hash Analysis        | SOC Automation Lab|
+| Network Scanning and Port Analysis     | SOC Automation Lab|
+| Security Log Analysis and Threat Detection            | SOC Automation Lab|
+| Linux Security Hardening and System Auditing | SOC Automation Lab|
 
 ## Tools
 

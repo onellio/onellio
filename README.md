@@ -14,7 +14,7 @@ My interest in cybersecurity grew from my passion for information technology. I'
 |-----------------------------------------------|----------------------------|
 | Python Security Scripting and Automation         | <a href="https://github.com/onellio/Password-Strength-Checker">Password Strength Checker</a>|
 |Password Security and Authentication Analysis | <a href="https://github.com/onellio/Password-Strength-Checker">Password Strength Checker</a>|
-| File Integrity Monitoring and Hash Analysis        | SOC Automation Lab|
+| File Integrity Monitoring and Hash Analysis        | <a href="https://github.com/onellio/File-Integrity-Checker/tree/main">File Integrity Checkerr</a>|
 | Network Scanning and Port Analysis     | SOC Automation Lab|
 | Security Log Analysis and Threat Detection            | SOC Automation Lab|
 | Linux Security Hardening and System Auditing | SOC Automation Lab|

@@ -52,7 +52,7 @@ My interest in cybersecurity grew from my passion for information technology. I'
 </div>
 
 ## Projects
-- Password Strength Checker
+- <a href="https://github.com/onellio/Password-Strength-Checker">Password Strength Checker</a>
 - File Integrity Checker
 - Simple Port Scanner
 - Log Analyzer

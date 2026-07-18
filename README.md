@@ -63,7 +63,7 @@ My interest in cybersecurity grew from my passion for information technology. I'
 ## Certifications
 
 <div>
-    <a href="[https://www.credly.com/badges/0cd265c2-ce5e-4481-b390-4e7203953432/public_url">
+    <a href="https://www.credly.com/badges/0cd265c2-ce5e-4481-b390-4e7203953432/public_url">
         <img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
     </a>
     <img src="https://img.shields.io/badge/-Cisco%20Networking%20Basics-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />

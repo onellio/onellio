@@ -53,7 +53,7 @@ My interest in cybersecurity grew from my passion for information technology. I'
 
 ## Projects
 - <a href="https://github.com/onellio/Password-Strength-Checker">Password Strength Checker</a>
-- File Integrity Checker
-- Simple Port Scanner
-- Log Analyzer
-- Linux Security Checklist
+- <a href="https://github.com/onellio/File-Integrity-Checker/tree/main">File Integrity Checker</a>
+- <a href="https://github.com/onellio/Python-Port-Scanner/tree/main">Python Port Scanner</a>
+- <a href="https://github.com/onellio/Log-Analyzer/tree/main">Log Analyzer</a>
+- <a href="https://github.com/onellio/Linux-Security-Checklist/tree/main">Linux Security Checklist</a>

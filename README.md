@@ -17,7 +17,7 @@ My interest in cybersecurity grew from my passion for information technology. I'
 | File Integrity Monitoring and Hash Analysis        | <a href="https://github.com/onellio/File-Integrity-Checker/tree/main">File Integrity Checker</a>|
 | Network Scanning and Port Analysis     | <a href="https://github.com/onellio/Python-Port-Scanner/tree/main">Python Port Scanner</a>|
 | Security Log Analysis and Threat Detection            | <a href="https://github.com/onellio/Log-Analyzer/tree/main">Log Analyzer</a>|
-| Linux Security Hardening and System Auditing | SOC Automation Lab|
+| Linux Security Hardening and System Auditing | <a href="https://github.com/onellio/Linux-Security-Checklist/tree/main">Linux Security Checklist</a>|
 
 ## Tools
 

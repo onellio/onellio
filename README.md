@@ -52,6 +52,12 @@ My interest in cybersecurity grew from my passion for information technology. I'
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
+### Virtualization
+
+<div>
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+</div>
+
 ### Development
 
 <div>
